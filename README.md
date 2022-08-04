@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-[![SimonIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonIT)](https://github.com/SimonIT/)
+[![SimonIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonIT&theme=github_dark)](https://github.com/SimonIT/)
 
 [My gpg public key](public.key)
 
